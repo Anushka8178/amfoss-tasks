@@ -1,8 +1,3 @@
-#amfoss-tasks 
-##Self-Introduction 
-Hello, I am Anushka Das,currently a first year student pursuing Computer Science Engineering(CSE).I've always had a knack for programming. 
-Taking Computer Science in 11th and 12th grade ignited my passion for coding and problem-solving. I look forward to joining amFoss, and I assure to give my best to the club. #
-
 #Introspection 
 ##WHY SHOULD YOU CHOOSE ME? 
 I've always been passionate about coding and also have a background in coding in Python.I've always known that that's something I would like to pursue in the near future. 
