@@ -1,0 +1,33 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+
+featured_image='images.jpg'
+
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Ananke"
+    weight = 1
+    contentDir = "content/en"
+
+  [languages.fr]
+    title = "Ananke Fr"
+    weight = 2
+    contentDir = "content/fr"
+[params]
+  text_color = ""
+  author = ""
+  description = "This the first blog page"
+
+  background_color_class = "bg-white"
+  recent_posts_number = 3
+
