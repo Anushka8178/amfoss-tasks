@@ -1,0 +1,93 @@
+---> The cow jumped over the moon.
+---> There is text misng this .
+---> There is some text missing from this line.
+---> There is some text missing from this line.
+     There is some text missing from this line.
+---> There is also some text missing here.
+     There is also some text missing here.
+
+There are a some words fun that don't belong in this sentence.
+Somebody typed the end of this line twice
+This is just a line with words you can move around in.
+this line of words is up.
+--->  thisof words is TUV cleaned up.
+
+--->  1)  Roses are red,
+---> Open up a line above this by typing O while the cursor is on this line.
+---> After typing  o  the cursor is placed on the open line in Insert mode.
+
+
+--->  3)  Violets are blue,
+--->  6)  Sugar is sweet
+--->  7)  And so are you.
+---> Fiix the errors oon thhis line and replace them with undo.
+---> a) Roses are red,.
+---> b) Violets are blue,
+---> c) Intelligence is learned,
+---> d) Can you learn too?
+--->  When this line was typed in, someone pressed some wrong keys!
+--->  When this line was typed in, someone pressed some wrong keys!
+---> This line has a few words that need changing using the change operator.
+---> This line has a few words that need changing using the change operator.
+---> The end of this line needs to be corrected using the c$ command.
+---> The end of this line needs to be corrected using the  c$  command.
+--->  "errroor" is not the way to spell error;  errroor is an error.
+---> This ( is a test line with ('s, ['s ] and {'s } in it. ))
+---> the best time to see the flowers is in the spring.
+
+11.py
+1.py
+blog
+bot.py
+---> the best time to see the flowers is in the spring.
+
+11.py
+1.py
+blog
+bot.py
+---> the best time to see the flowers is in the spring.
+
+11.py
+1.py
+blog
+bot.py
+challenge3.py
+cp1.py
+Desktop
+Documents
+Downloads
+go.mod
+google-chrome-stable_current_amd64.deb
+images.jpeg
+Music
+new
+Pictures
+Public
+__pycache__
+quickstart
+railroad-163518_1920.jpg
+requirements.txt
+sa.py
+save.py
+scraper.py
+snap
+ss.py
+task 3 python.py
+task_7.zip
+task7.zip
+taskno7
+taskno7.zip
+Templates
+TerminalWizard
+TheFinalSpell
+themes
+venv
+Videos
+---> This line will allow you to practice appending text to a line.
+---> This line will allow you to practice appending text to a line.
+---> Adding 123 to 456 gives you 579.
+---> Adding 123 to 456 gives you 579.
+--->  a) this is the first item.
+      b) this is the  item.
+
+
