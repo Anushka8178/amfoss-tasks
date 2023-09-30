@@ -1,1 +1,1 @@
-
+This task was comparitively difficult, since I had to learn about PySide6 and also using PythonAPI. I did face some challenges in the process, for instance, I had some trouble in adding the background image and creating the display screen of the captured pokemons. But, nevertheless,I was able to complete it.
