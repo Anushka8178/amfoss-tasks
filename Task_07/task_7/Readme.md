@@ -1,1 +1,1 @@
-This task was particularly an interesting one for me. Even though it took me quite some time to learn about creating webpages using HTML and CSS, it was a rewarding experience to see the webpage come to life.
+This task was slightly time consuming and required patience. Since, I would encounter an error message even after fixing my code. Thereafter, with some help, I was able to figure out that I needed to learn about using API keys in Javascript. It finally worked and it was my first time creating a chrome extension.
