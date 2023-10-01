@@ -20,8 +20,8 @@ to not being able to do some tasks, but with the timely support it was a good ex
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Introspection](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/introspection)|Introspection|Completed
-[Task-00](https://github.com/Anushka8178/amfoss-tasks/tree/main/Task_00))|Installing Ubuntu|Completed
+[Introspection](https://github.com/Anushka8178/amfoss-tasks/blob/main/Readme.md)|Introspection|Completed
+[Task-00](https://github.com/Anushka8178/amfoss-tasks/tree/main/Task_00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/Anushka8178/amfoss-tasks/tree/main/Task_01)|Terminal Wizard|Completed
 [Task-02](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-02)|Lessgo Hugo|Completed Partially
 [Task-03](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-03)|Programming|Completd Partially
