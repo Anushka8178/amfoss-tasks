@@ -17,3 +17,17 @@ take part in competitions. <br>
 In the process, I did stumble upon few tasks which were pretty tough but the support and guidance by our mentors proved to be really helpful. The whole process was a great 
 learning experience for me and I tried out various things for the first time, like competitive programming, creating a webpage. I belive that, even tough it was frustrating 
 to not being able to do some tasks, but with the timely support it was a good experience.
+
+**Tasks List**|**Description**|**Status**
+--------------|---------------|---------------
+[Introspection](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/introspection)|Introspection|Completed
+[Task-00](https://github.com/Anushka8178/amfoss-tasks/tree/main/Task_00))|Installing Ubuntu|Completed
+[Task-01](https://github.com/Anushka8178/amfoss-tasks/tree/main/Task_01)|Terminal Wizard|Completed
+[Task-02](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-02)|Lessgo Hugo|Completed Partially
+[Task-03](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-03)|Programming|Completd Partially
+[Task-04](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-04)|Competitive Programming|Completed partially
+[Task-05](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-05)|Hypertext Mockup Language|Completed
+[Task-07](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-07)|AK-47|Completed
+[Task-08](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-08)|Poke-Search|Completed
+[Task-13](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-13)|Vim|Completed
+
