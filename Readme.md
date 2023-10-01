@@ -25,7 +25,7 @@ to not being able to do some tasks, but with the timely support it was a good ex
 [Task-01](https://github.com/Anushka8178/amfoss-tasks/tree/main/Task_01)|Terminal Wizard|Completed
 [Task-02](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-02)|Lessgo Hugo|Completed Partially
 [Task-03](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-03)|Programming|Completd Partially
-[Task-04](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-04)|Competitive Programming|Completed partially
+[Task-04](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-04)|Competitive Programming|Completed Partially
 [Task-05](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-05)|Hypertext Mockup Language|Completed
 [Task-07](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-07)|AK-47|Completed
 [Task-08](https://github.com/Anushka8178/amfoss-tasks/tree/main/task-08)|Poke-Search|Completed
